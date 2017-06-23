@@ -30,14 +30,14 @@
 
 .logo-img {
   max-height: 64px!important;
-  padding: 13px 0 !important;
+  padding: 10px 0 13px 0 !important;
   float: left;
   margin: 0 10px 0 -40px;
 }
 
 .navbar-buttons {
   width: 33%;
-  height: 75px;
+  height: 80px;
   text-align: center;
 }
 
@@ -46,5 +46,9 @@
 }
 
 .title-font-size {
-  font-size: 25px;
+  font-size: 22px !important;
+}
+
+.button-bar {
+  height: 80px !important;
 }
