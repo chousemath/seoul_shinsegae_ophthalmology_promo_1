@@ -1,0 +1,24 @@
+.button-container {
+  width: 100%;
+  text-align: center;
+  margin: 20px 0 20px 0;
+}
+
+.button-format {
+  width: 150px;
+}
+
+.arrow-container {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 42px;
+  z-index: 999;
+  background-color: transparent;
+}
+
+.arrow-format {
+  width: 42px;
+  height: 42px;
+}
